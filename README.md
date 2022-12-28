@@ -1,3 +1,0 @@
-# kettle
-
-C++ executable
